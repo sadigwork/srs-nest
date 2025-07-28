@@ -1,0 +1,1052 @@
+[
+  {
+    "role": "admin",
+    "resource": "Application",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Application",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Application",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Application",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Application",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Application",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Application",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Application",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Application",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Application",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Application",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Application",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Application",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Application",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Application",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Application",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Application",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Application",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Application",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Application",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Application",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Application",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Application",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Application",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Application",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Education",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Education",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Education",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Education",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Education",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Education",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Education",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Education",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Education",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Education",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Education",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Education",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Education",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Education",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Education",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Education",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Education",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Education",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Education",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Education",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Education",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Education",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Education",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Education",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Education",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Training",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Training",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Training",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Training",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Training",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Training",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Training",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Training",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Training",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Training",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Training",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Training",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Training",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Training",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Training",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Training",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Training",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Training",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Training",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Training",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Training",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Training",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Training",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Training",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Training",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WorkExperience",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "WorkExperience",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "WorkExperience",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "WorkExperience",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WorkExperience",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WorkExperience",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "WorkExperience",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "WorkExperience",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "WorkExperience",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WorkExperience",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WorkExperience",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "WorkExperience",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "WorkExperience",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "WorkExperience",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WorkExperience",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WorkExperience",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "WorkExperience",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "WorkExperience",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "WorkExperience",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WorkExperience",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "WorkExperience",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "WorkExperience",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "WorkExperience",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "WorkExperience",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "WorkExperience",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Institution",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Institution",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Institution",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Institution",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Institution",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Institution",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Institution",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Institution",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Institution",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Institution",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Institution",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Institution",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Institution",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Institution",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Institution",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Institution",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Institution",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Institution",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Institution",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Institution",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Institution",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Institution",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Institution",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Institution",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Institution",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Document",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Document",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Document",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Document",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Document",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Document",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Document",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Document",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Document",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Document",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Document",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Document",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Document",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Document",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Document",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Document",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Document",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Document",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Document",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Document",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Document",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "Document",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "Document",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "Document",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Document",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrant",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "registrar",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "systemAdmin",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
